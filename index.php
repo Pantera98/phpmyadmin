@@ -2,7 +2,7 @@
 /* vim: set expandtab sw=4 ts=4 sts=4: */
 /**
  * Main loader script
- *
+ * Jakas tam kolejna zmiana juz chyba trzecia
  * @package PhpMyAdmin
  */
 declare(strict_types=1);
