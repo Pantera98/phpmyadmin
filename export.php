@@ -5,6 +5,9 @@
  *
  * @package PhpMyAdmin
  */
+
+ 
+ 
 declare(strict_types=1);
 
 use PhpMyAdmin\Core;
@@ -45,7 +48,7 @@ if (isset($_GET['check_time_out'])) {
         unset($_SESSION['pma_export_error']);
         echo "timeout";
     } else {
-        echo "success";
+        echo "Sukces";
     }
     exit;
 }
